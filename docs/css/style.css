@@ -288,6 +288,7 @@ li {
 
   .profile-body p:not(:last-child) {
     margin-bottom: 20px;
+    font-size:50
   }
 
   .skill-list {
